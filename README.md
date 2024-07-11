@@ -1,0 +1,1 @@
+# Entrar-com-um-n-mero-e-imprimir-o-logaritmo-desse-n-mero-na-base-10.
